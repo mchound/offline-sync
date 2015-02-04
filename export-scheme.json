@@ -1,0 +1,146 @@
+{
+	
+	"clientId": "456-132-987",
+
+	"itemIdField": "articleNo",
+
+	"imagesRemotePrefix": "http://images.ikea.se/touch-screens/",
+
+	"categories": [
+
+		{
+			"id": "id-cat-1",
+			"name": "Category 1",
+			"type": "1 (= category)",
+			"categories": [],
+			"items": [
+
+				{
+					"type": "2 (= item)",
+					"articleNo": "123",
+					"name": "Billy Bokhylla",
+					"description": "This text describes this Billy",
+					"price": "499",
+					"primaryImage": "456879598654kkzzyy",
+					"secondaryImage": "zzzkk4454563556",
+					"images": [
+						"465456465",
+						"45664657899",
+						"12315648943"
+					],
+					"deliveryTime": "3-4 weeks",
+					"construction": "Turned and planed",
+					"countryofManufacture": "Romania",
+					"htmlData": "<div class='class-name'><h1>This is the innerText in this html header</h1></div>",
+					"tableData": {
+						"col1": [
+							"row-1 col-1",
+							"row-2 col-1",
+							"row-3 col-1",
+							"row-4 col-1",
+							"row-5 col-1",
+							"row-6 col-1"
+						],
+
+						"col2": [
+							"row-1 col-2",
+							"row-2 col-2",
+							"row-3 col-2",
+							"row-4 col-2",
+							"row-5 col-2",
+							"row-6 col-2"
+						],
+
+						"col3": [
+							"row-1 col-3",
+							"row-2 col-3",
+							"row-3 col-3",
+							"row-4 col-3",
+							"row-5 col-3",
+							"row-6 col-3"
+						]
+					},
+					"arrayDataPlain": [
+						"First value",
+						"Second value",
+						"third value"
+					],
+					"arrayDataObjects": [
+						{"store": "Bäckebol", "stock": 77},
+						{"store": "Jönköping", "stock": 19},
+						{"store": "Kållered", "stock": 22},
+					]
+
+				},
+
+				{
+					"type": "2 (= item)",
+					"articleNo": "987",
+					"name": "Bespara komposthink",
+					"description": "This text describes this komposthink",
+					"price": "29.90",
+					"primaryImage": "456879598654kkzzyy",
+					"secondaryImage": "zzzkk4454563556",
+					"images": [
+						"465456465",
+						"45664657899",
+						"12315648943"
+					],
+					"deliveryTime": "3-4 weeks",
+					"construction": "Turned and planed",
+					"countryofManufacture": "Romania"
+				}
+
+			]
+		},
+
+		{
+			"id": "id-cat-2",
+			"name": "Category 2",
+			"type": "1 (= category)",
+			"categories": [
+
+				{
+					"id": "id-cat-2-1",
+					"name": "Category 2-1",
+					"type": "1 (= category)",
+					"categories": [],
+					"items": [
+
+						{
+							"type": "2 (= item)",
+							"articleNo": "987",
+							"name": "Bespara komposthink",
+							"description": "This text describes this komposthink",
+							"price": "29.90",
+							"primaryImage": "456879598654kkzzyy",
+							"secondaryImage": "zzzkk4454563556",
+							"images": [
+								"465456465",
+								"45664657899",
+								"12315648943"
+							],
+							"deliveryTime": "3-4 weeks",
+							"construction": "Turned and planed",
+							"countryofManufacture": "Romania"
+						}
+
+					]
+
+				}
+
+			],
+			"items": []
+		}
+
+
+
+	],
+
+	"items": [
+
+
+
+	]
+
+}

@@ -1,0 +1,21 @@
+OfflSync.Constants = {
+
+	ActionTypes: {
+		FILE_SYSTEM_INIT: 'FILE_SYSTEM_INIT',
+		FILE_SYSTEM_RESET: 'FILE_SYSTEM_RESET',
+		FILE_LIST_FETCH: 'FILE_LIST_FETCH',
+		FILE_FETCH: 'FILE_FETCH',
+		FILE_LOCAL_STORE: 'FILE_LOCAL_STORE',
+		FILE_LIST_READY: 'FILE_LIST_READY'
+	},
+
+	FileTypes: {
+		BLOB: 'BLOB',
+		STRING: 'STRING'
+	},
+
+	FileErrors: {
+		FILE_EXISTS: 'InvalidModificationError'
+	}
+
+}
